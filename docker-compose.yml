@@ -27,7 +27,6 @@ services:
       - shard01-a
       - shard02-a
 
-  ## Shards
   ## Shards 01
 
   shard01-a:
